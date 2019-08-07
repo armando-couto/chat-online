@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "129934346129",
+    "firebase_url": "https://chatonlineflutter.firebaseio.com",
+    "project_id": "chatonlineflutter",
+    "storage_bucket": "chatonlineflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129934346129:android:49eae9cf7c918bd4",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129934346129-cmn3nthhc8i4t516d4m78vatdn6urbnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat_online",
+            "certificate_hash": "547cad79cb1fa33876f011119909178a3e4d0ec2"
+          }
+        },
+        {
+          "client_id": "129934346129-q7tgikfdj0v8hindv45m79n0p7a3ioev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA265by8tY_YmrI-VH-nPwSje3jl0Pw-l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129934346129-q7tgikfdj0v8hindv45m79n0p7a3ioev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129934346129-us09jibp0uoli1mpq3kocgvjl7boduu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.ciolfi.chatOnline"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129934346129:android:bdc95d14afcf69d5",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129934346129-dtp2pfl8rheoj5daneqtiep8amic5u9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chatonline",
+            "certificate_hash": "a4dfebc1da8cc7dbcbeff0c8a863c4bce945cdac"
+          }
+        },
+        {
+          "client_id": "129934346129-07ehaigepklkg00gms0acjiej6nqe5ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chatonline",
+            "certificate_hash": "3d1bb45c1128655f68e7ed6573fbba1accd6ca66"
+          }
+        },
+        {
+          "client_id": "129934346129-q7tgikfdj0v8hindv45m79n0p7a3ioev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA265by8tY_YmrI-VH-nPwSje3jl0Pw-l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129934346129-q7tgikfdj0v8hindv45m79n0p7a3ioev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129934346129-us09jibp0uoli1mpq3kocgvjl7boduu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.ciolfi.chatOnline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
